@@ -1,6 +1,6 @@
-#First Tests In Swift
+# First Tests In Swift
 
-##Goals :
+## Goals :
 - track my progress in swift
 - be comfortable with swift
 - then code with the Metal Graphic API
